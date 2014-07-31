@@ -3,12 +3,13 @@ layout: page
 title: About
 ---
 
-Some information about you!
+Im a Electric Engineer working with system development.
+My professional interests are Startup ideas, Web development and embedded systems hacks.
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:lauro.gama@gmail.com)
