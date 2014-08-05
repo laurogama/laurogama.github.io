@@ -7,9 +7,9 @@ For the past couple weeks I've being working in a hybrid app using the (Ionic)[i
 It works by wrapping a bridge between angularJs apps and cordova and creating a hybrid Mobile app.  
 
 
-###The good: 
+## The good: 
 Its possible to develop using angular Js.
 
-###The bad: 
+## The bad: 
 There are many differences between the desktop version and the built by cordova. You need to keep constant tests between versions.
 
