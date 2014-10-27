@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 Im a Electric Engineer working with system development.
